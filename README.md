@@ -2,14 +2,14 @@
 
  Hello, world! This is my first repository created, I'm learning versioning with Git n GitHub, Let's get started!
 
-## Testing Markdown
+#### Testing Markdown
 **Negrito** (bold, but I like this word, it's funny, is a little black man in portuguese, like me kkk)
 
 *Italic*
 
 **_Neg n Ital_**
 
-### List
+#### List
 1. first
    1. first's first
 3. second
@@ -18,4 +18,11 @@
 #### Tags
 - [ ] firt task
 - [ ] second task
-- [x] third task 
+- [x] third task
+
+#### Teste tab
+num | Name | color | test
+---|---|---|---
+1 | first | green | true
+2 | second | blue | false
+3 | third | red | true
